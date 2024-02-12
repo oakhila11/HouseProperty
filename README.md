@@ -15,7 +15,7 @@ The dataset contains five columns:
 - Bedrooms: Number of bedrooms
 ## Aim
 The objective of this data analytics project is to examine trends in the real estate industry and to understand the elements impacting property prices by analysing and deriving insights from the property sales dataset.
-### Guiding Questions (Questions to be answered through this analysis)
+## Guiding Questions (Questions to be answered through this analysis)
 1. What are the main factors contributing to variations in property prices for houses in the dataset?
 2. Does the number of bedrooms have a noticeable impact on property prices, and if so, what is the relationship?
 3. How has the average property price changed over time? Are there any seasonal patterns or long-term trends?
