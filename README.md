@@ -1,6 +1,10 @@
 # House Property Sales Time Series - SQL PROJECT
 This is a project that was found on Kaggle and was created to show my Data Cleaning, Data manipulation and Data Analysis skills using SQL.
 ## Table of Contents
+1.Dataset
+2. Aim
+3. Guiding Questions
+
 ## Dataset
 The dataset used in this project is a public dataset that can be found [here](https://www.kaggle.com/datasets/htagholdings/property-sales/data?select=raw_sales.csv) </br>
 The dataset contains five columns:
